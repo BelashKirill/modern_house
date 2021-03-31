@@ -1,0 +1,254 @@
+@media (max-width: 1562px) {
+  .block-obout-left-section__main-title_size span:first-child {
+    font-size: 36px; }
+
+  .block-obout-left-section__main-title_size span:last-child {
+    margin-top: 6px;
+    font-size: 17px; } }
+@media (max-width: 1526px) {
+  .block-awards-wrapper__item {
+    width: 150px;
+    height: 150px; } }
+@media (max-width: 1342px) {
+  .block-awards-wrapper__item {
+    width: 120px;
+    height: 120px; }
+
+  .block-awards-wrapper {
+    justify-content: space-around; } }
+@media (max-width: 1286px) {
+  .block-awards__title span:before,
+  .block-awards__title span:after {
+    width: 465px; }
+
+  .block-obout-left-section__main-title-design span:first-child {
+    font-size: 36px; }
+
+  .block-obout-left-section__main-title-design span:last-child {
+    font-size: 17px; } }
+@media (max-width: 1272px) {
+  .header-slider__phone-design {
+    font-size: 18px; } }
+@media (max-width: 1199px) {
+  .block-obout-left-section__title_black {
+    margin-bottom: 19px;
+    font-size: 13px; }
+
+  .block-obout-left-section__main-title_size span:first-child {
+    font-size: 29px; }
+
+  .block-obout-left-section__main-title-design span:first-child {
+    font-size: 30px; }
+
+  .block-obout-left-section__main-title-design span:last-child {
+    font-size: 15px; }
+
+  .header-slider__menu {
+    padding-left: 0;
+    padding-right: 0; }
+
+  .block-more {
+    height: 334px; }
+
+  .item,
+  .owl-carousel.owl-drag .owl-item {
+    height: auto; } }
+@media (max-width: 1160px) {
+  .block-awards-wrapper {
+    flex-direction: column; }
+
+  .block-awards {
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-size: cover; }
+
+  .block-awards-wrapper__item {
+    margin-bottom: 20px; }
+
+  .block-awards__title span:before,
+  .block-awards__title span:after {
+    width: 60px; } }
+@media (max-width: 1024px) {
+  header,
+  .owl-carousel.owl-drag .owl-item img,
+  .owl-carousel.owl-drag .owl-item {
+    height: auto; }
+
+  .item-inner-content h2 {
+    font-size: 54px; }
+
+  .item-inner-content h3 {
+    font-size: 27px; }
+
+  .block-obout-left-section__main-title-design span:first-child {
+    font-size: 26px; }
+
+  .block-obout-left-section__main-title-design span:last-child {
+    font-size: 13px; }
+
+  .item-inner-content__title {
+    font-size: 20px; }
+
+  .item-inner-content-design {
+    left: 20px; } }
+@media (max-width: 991px) {
+  .block-obout-left-section__main-title span {
+    display: block; }
+
+  .block-more {
+    height: auto;
+    padding-bottom: 20px; }
+
+  .block-obout-left-section__title {
+    display: flex; }
+
+  .block-service__content {
+    border: 0; }
+
+  .block-services__item-center-img {
+    text-align: left; }
+
+  .block-service__content,
+  .block-services__item-center-img {
+    padding-bottom: 20px; }
+
+  .block-obout-left-section__main-title_size span:first-child {
+    padding-top: 0;
+    font-size: 22px; }
+
+  .block-obout-left-section__main-title_size span:last-child {
+    font-size: 15px; }
+
+  .block-obout,
+  .block-services {
+    padding: 50px 0; }
+
+  .header-slider__menu-design {
+    height: 59px; }
+
+  .block-items-design-item-left-section__text,
+  .block-items-design-item-right-section-img {
+    margin-top: 20px; }
+
+  .block-items-design-item-right-section__number {
+    display: flex; }
+
+  .block-items-design-item-left-section__text_left,
+  .block-items-design-item-left-section__text_left ul,
+  .block-items-design-item-left-section__title-ul,
+  .block-obout-left-section__title_eng,
+  .block-obout-left-section__title-build {
+    text-align: left; }
+
+  .block-obout-left-section__title-build {
+    margin-left: 0; }
+
+  .block-obout-left-section__title-build {
+    width: auto; }
+
+  .block-pricing__price {
+    position: relative;
+    bottom: auto;
+    padding-bottom: 30px;
+    text-align: left; }
+
+  .block-pricing {
+    padding-bottom: 0; }
+
+  .block-items-design-item-left-section__text_prices {
+    text-align: left; }
+
+  .block-pricing__price_mt {
+    margin-top: 20px; }
+
+  .block-author-eye__title {
+    margin-top: 20px;
+    font-size: 20px; }
+
+  .header-slider__menu-list-design {
+    margin-top: 17px; }
+
+  .link-filter {
+    padding-left: 0; } }
+@media (max-width: 768px) {
+  .block-services__item-center-img,
+  .block-services__item-img,
+  .block-items-design-item-right-section-img,
+  .block-pricing__img,
+  .block-author-eye__img {
+    height: auto;
+    overflow: auto; }
+
+  .block-services__item-center-img img,
+  .block-services__item-img img,
+  .block-items-design-item-right-section-img img,
+  .block-pricing__img img,
+  .block-author-eye__img img {
+    width: 100%;
+    height: auto; }
+
+  .footer-left-section__title,
+  .footer-left-section__item {
+    display: flex;
+    align-items: flex-start; }
+
+  .footer-left-section__item_adress {
+    margin-bottom: 20px;
+    text-align: left; }
+
+  .footer-social-icons {
+    margin-top: 30px; }
+
+  .header-slider__menu-list {
+    display: none; }
+
+  .header-slider__menu {
+    position: relative;
+    background-color: white; }
+
+  .header-slider__phone {
+    color: #000; }
+
+  .header-slider__phone:hover,
+  .header-slider__phone:focus {
+    color: #000; }
+
+  .block-items-design-item-left-section__text {
+    text-align: left; }
+
+  .item-inner-content-design {
+    top: -15px; }
+
+  .item-inner-content__title {
+    font-size: 18px; }
+
+  .header-slider__phone-design {
+    margin-top: 15px; } }
+@media (max-width: 575px) {
+  .block-obout-left-section__main-title {
+    font-size: 14px; }
+
+  .block-obout-left-section__main-title span {
+    font-size: 28px; }
+
+  .item-inner-content h2 {
+    font-size: 30px; }
+
+  .item-inner-content h3 {
+    font-size: 15px; }
+
+  .block-awards__title span:before,
+  .block-awards__title span:after {
+    width: 20px; }
+
+  .link-filter:after {
+    display: none; } }
+@media (max-width: 360px) {
+  .item-inner-content h2 {
+    font-size: 20px; }
+
+  .item-inner-content h3 {
+    font-size: 13px; } }
+
+/*# sourceMappingURL=media.css.map */
